@@ -6,7 +6,6 @@
 ## Student of Petrocollege
 ### I haven't found my direction yet, but I'm studying different languages and tools:
 <img align="left" alt="Visual Studio" width="26px" src="https://smile-emoji.ru/wp-content/uploads/site-images/discord/7f67843efc0f0e47bf4a1eb8fc402a5d.png"/>
-<img align="left" alt="Visual Studio code" width="26px" src="https://good-code.ru/wp-content/uploads/2019/02/visual-studio-code.png"/>
 <img align="left" alt="HTML-5" width="26px" src="https://www.clipartmax.com/png/full/171-1719778_html5-html5-logo-png.png"/>
 <img align="left" alt="CSS-3" width="26px" src="https://luxe-host.ru/wp-content/uploads/3/1/6/316df50bcf36dccbe19dd219abf85b16.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://fuzeservers.ru/wp-content/uploads/9/3/a/93a14a817aba78c219b6421198863989.png"/>
