@@ -3,7 +3,6 @@
 
 # Hi there!
 ## My name is Kirill Zolotaryov
-## Student of Petrocollege
 ### I haven't found my direction yet, but I'm studying different languages and tools:
 <img align="left" alt="HTML-5" width="26px" src="https://www.clipartmax.com/png/full/171-1719778_html5-html5-logo-png.png"/>
 <img align="left" alt="CSS-3" width="26px" src="https://luxe-host.ru/wp-content/uploads/3/1/6/316df50bcf36dccbe19dd219abf85b16.png"/>
