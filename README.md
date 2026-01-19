@@ -4,8 +4,8 @@
 # Hi there!
 ## My name is Kirill Zolotaryov
 ### I haven't found my direction yet, but I'm studying different languages and tools:
-<img height="26px" alt="HTML5" src="https://github.com/user-attachments/assets/9c8f04ab-0e60-44d6-9542-02b8dcfe02b7" />
-<img height="26px" alt="CSS3" src="https://github.com/user-attachments/assets/742adf06-dd6d-4df0-8b51-5ba34260e6cd" />
+<img height="30px" alt="HTML5" src="https://github.com/user-attachments/assets/9c8f04ab-0e60-44d6-9542-02b8dcfe02b7" />
+<img height="30px" alt="CSS3" src="https://github.com/user-attachments/assets/742adf06-dd6d-4df0-8b51-5ba34260e6cd" />
 <img height="26px" alt="JavaScript" src="https://github.com/user-attachments/assets/5fcdf98a-2aa3-4059-bba6-8bd77f6257c1" />
 <img height="26px" alt="TypeScript" src="https://github.com/user-attachments/assets/9a667b02-2cf9-4af8-988a-3c0b60f95e07" />
 <img height="26px" alt="React" src="https://github.com/user-attachments/assets/9276500a-4767-4991-9ba5-c90f2a7f8868" />
