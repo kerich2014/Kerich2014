@@ -4,12 +4,12 @@
 # Hi there!
 ## My name is Kirill Zolotaryov
 ### I haven't found my direction yet, but I'm studying different languages and tools:
-<img align="left" alt="HTML-5" width="26px" src="[https://www.clipartmax.com/png/full/171-1719778_html5-html5-logo-png.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/500px-HTML5_logo_and_wordmark.svg.png)"/>
-<img align="left" alt="CSS-3" width="26px" src="[https://luxe-host.ru/wp-content/uploads/3/1/6/316df50bcf36dccbe19dd219abf85b16.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/500px-CSS3_logo_and_wordmark.svg.png?20160530175649)"/>
-<img align="left" alt="JavaScript" width="26px" src="[https://fuzeservers.ru/wp-content/uploads/9/3/a/93a14a817aba78c219b6421198863989.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)"/>
-<img align="left" alt="Typescript" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png)"/>
-<img align="left" alt="React" width=26px" src="[https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s)"/>
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/1b0fc0bc-774a-48b3-ab40-4b500d3f2e3b" />
+<img width="26px" alt="HTML5" src="https://github.com/user-attachments/assets/9c8f04ab-0e60-44d6-9542-02b8dcfe02b7" />
+<img width="26px" alt="CSS3" src="https://github.com/user-attachments/assets/742adf06-dd6d-4df0-8b51-5ba34260e6cd" />
+<img width="26px" alt="JavaScript" src="https://github.com/user-attachments/assets/5fcdf98a-2aa3-4059-bba6-8bd77f6257c1" />
+<img width="26px" alt="TypeScript" src="https://github.com/user-attachments/assets/9a667b02-2cf9-4af8-988a-3c0b60f95e07" />
+<img width="26px" alt="React" src="https://github.com/user-attachments/assets/9276500a-4767-4991-9ba5-c90f2a7f8868" />
+<img width="26px" alt="Git" src="https://github.com/user-attachments/assets/1b0fc0bc-774a-48b3-ab40-4b500d3f2e3b" />
 
 
 <!--
